@@ -2,4 +2,8 @@
 
 A demonstration repository to explore the basic Git workflow.
 
-Workflow changes.
+## Add some cheat sheet info 
+
+
+git add <filename>
+git commit -m "short commit message"
