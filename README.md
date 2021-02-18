@@ -6,4 +6,9 @@ A demonstration repository to explore the basic Git workflow.
 
 
 git add <filename>
+
 git commit -m "short commit message"
+
+git status
+
+git log 
